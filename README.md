@@ -14,6 +14,7 @@ A professional console-based calculator developed in *C*. This project demonstra
 * Language: C
 * Tools: VS Code, GCC Compiler
 * Concepts: Switch-case, While loops, Function prototypes, and definitions.
+ ! [Calculator Output](Output.png)
 
 ---
 Developed by Samra Khursheed
